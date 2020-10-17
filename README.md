@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on mobile and cloud development.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Flutter and Google Cloud Platform.
 
 <!--
 **samirtf/samirtf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
