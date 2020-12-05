@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on mobile and cloud development.
-- 🌱 I’m currently learning Flutter and Google Cloud Platform.
+- 🌱 I’m currently learning iOS/Swift, Flutter and Google Cloud Platform.
 - ⚡ Fun fact: I like Lord of The Rings and Avengers!
 
 <!--
